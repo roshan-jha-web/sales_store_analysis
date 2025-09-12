@@ -13,3 +13,6 @@ Because of this, they are missing chances to earn more, losing customers, and ma
 
 ## Solution
 They need proper and simple insights to understand their sales, customers, and product performance better.
+
+
+![sales_store_analysis_image](https://github.com/user-attachments/assets/05795ceb-0c4c-44a8-afcc-223f56ab169c)
